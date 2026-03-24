@@ -7,7 +7,7 @@ export interface ITask {
 
 export interface ILogItem {
     logId: string;
-    logAuther: string;
+    logAuthor: string;
     logMessage: string;
     logTimestamp: string;
 }
